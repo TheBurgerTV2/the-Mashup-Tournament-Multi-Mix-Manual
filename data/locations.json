@@ -1,0 +1,1672 @@
+[
+  {
+    "name": "Listen to your favorite song :)",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "{victory_rule()}"
+  },
+  {
+    "name": "UPLEFTDOWNDOWNUPRIGHTDOWNDOWNDOWN",
+    "category": [
+      "DJ Sray"
+    ],
+    "requires": "|DJ Sray| AND |Dice 1|"
+  },
+  {
+    "name": "Can't Outrun [SPEED OF STEEL]",
+    "category": [
+      "DJ Sray",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|DJ Sray| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Heaven's Most RANDOM Defenders",
+    "category": [
+      "DJ Sray",
+      "The Three (Four) Peters"
+    ],
+    "requires": "|DJ Sray| AND |The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "pov: you didn't bring ketchup for mario's pizza pie.",
+    "category": [
+      "DJ Sray"
+    ],
+    "requires": "|DJ Sray| AND |Dice 1|"
+  },
+  {
+    "name": "OCTOBER FIRST (Dicey Mix)",
+    "category": [
+      "DJ Sray",
+      "The Three (Four) Peters",
+      "Joy",
+      "Medic"
+    ],
+    "requires": "|DJ Sray| AND |The Three (Four) Peters| AND |Joy| AND |Medic| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "Garry's Conga",
+    "category": [
+      "DJ Sray",
+      "Chester Chomper"
+    ],
+    "requires": "|DJ Sray| AND |Chester Chomper| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "BREAKDOWN BASE",
+    "category": [
+      "DJ Sray"
+    ],
+    "requires": "|DJ Sray| AND |Dice 1|"
+  },
+  {
+    "name": "I WANNA BE THE DJ",
+    "category": [
+      "DJ Sray",
+      "Lain Iwakura"
+    ],
+    "requires": "|DJ Sray| AND |Lain Iwakura| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "☆ EXPERT TIMING ☆",
+    "category": [
+      "DJ Sray",
+      "Po"
+    ],
+    "requires": "|DJ Sray| AND |Po| AND (|Dice 1| OR |Dice 3|)"
+  },
+  {
+    "name": "THE OLD WORLD BURNS, LAMENT",
+    "category": [
+      "DJ Sray",
+      "Elma",
+      "Blood Sugar"
+    ],
+    "requires": "|DJ Sray| AND |Elma| AND |Blood Sugar| AND (|Dice 1| OR |Dice 2| OR |Dice 5|)"
+  },
+  {
+    "name": "Bloomin' Death",
+    "category": [
+      "DJ Sray",
+      "Wiz & Boomstick"
+    ],
+    "requires": "|DJ Sray| AND |Wiz & Boomstick| AND (|Dice 1| OR |Dice 4|)"
+  },
+  {
+    "name": "don't rest all day",
+    "category": [
+      "Jigglypuff"
+    ],
+    "requires": "|Jigglypuff| AND |Dice 1|"
+  },
+  {
+    "name": "Nostalgia Invisível",
+    "category": [
+      "Jigglypuff",
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Jigglypuff| AND |Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "A Good Night's Sleep Is What I Like",
+    "category": [
+      "Jigglypuff",
+      "The Backside Rider"
+    ],
+    "requires": "|Jigglypuff| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "i hear you still, don't forget me.",
+    "category": [
+      "Jigglypuff",
+      "Carl Weezer ft. Phinnie Joe Armstrong"
+    ],
+    "requires": "|Jigglypuff| AND |Carl Weezer ft. Phinnie Joe Armstrong| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Singing Close To My Chosen One",
+    "category": [
+      "Jigglypuff"
+    ],
+    "requires": "|Jigglypuff| AND |Dice 1|"
+  },
+  {
+    "name": "She Got That Dog In Her",
+    "category": [
+      "Jigglypuff",
+      "Moxie"
+    ],
+    "requires": "|Jigglypuff| AND |Moxie| AND (|Dice 1| OR |Dice 5|)"
+  },
+  {
+    "name": "wisp bed",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Ballad Of A NIGHTMARE",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Champion's Castle: Twinkle In The Sky",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "EXCESS OF FALSE SERPENTS",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Victory! Jigglypuff",
+    "category": [
+      "Jigglypuff"
+    ],
+    "requires": "|Jigglypuff| AND |Dice 1|"
+  },
+  {
+    "name": "Peach-coloured Singer",
+    "category": [
+      "Jigglypuff"
+    ],
+    "requires": "|Jigglypuff| AND |Dice 1|"
+  },
+  {
+    "name": "Go Catch Your Man!",
+    "category": [
+      "Jigglypuff",
+      "Pac-Man"
+    ],
+    "requires": "|Jigglypuff| AND |Pac-Man| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "Beats and Breaks from the Jiggly Zone",
+    "category": [
+      "Jigglypuff",
+      "Loon"
+    ],
+    "requires": "|Jigglypuff| AND |Loon| AND (|Dice 1| OR |Dice 5|)"
+  },
+  {
+    "name": "kisses distorted",
+    "category": [
+      "Jigglypuff",
+      "Mother 3"
+    ],
+    "requires": "|Jigglypuff| AND |Mother 3| AND (|Dice 1| OR |Dice 3|)"
+  },
+  {
+    "name": "WE CAN SING A SONG, JUST YOU AND ME!",
+    "category": [
+      "Jigglypuff",
+      "... in my katamari"
+    ],
+    "requires": "|Jigglypuff| AND |... in my katamari| AND (|Dice 1| OR |Dice 4|)"
+  },
+  {
+    "name": "Misery Is A Butterfree",
+    "category": [
+      "Jigglypuff",
+      "Robot Rock-U"
+    ],
+    "requires": "|Jigglypuff| AND |Robot Rock-U| AND (|Dice 1| OR |Dice 4|)"
+  },
+  {
+    "name": "i'll keep those times in my heart",
+    "category": [
+      "Jigglypuff"
+    ],
+  "requires": "|Jigglypuff| AND |Dice 1|"
+  },
+  {
+    "name": "OW THE EDGE",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Chronological Order ~ From Start To DEATH.",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "METAL CHAINS IN HAND",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "Joy"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Joy| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "I AM... MACH INFINITY",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "Joy"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Joy| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "Victory! Coldsteel",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "Stupid Loser Hedgehog I am much bettre thn him",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "TITANCHAD",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "Elma"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Elma| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Breakup Speedrun",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Bubsy The Bobcat| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Gefährliche Welt",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "psh... LORD C in teh house...",
+    "category": [
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "im goign to kill those litle pigs with my good frend, coldsteel hedgeheg",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |The Big Bad Wolf| AND (|Dice 1| OR |Dice 6|)"
+  },
+  {
+    "name": "All That Emptiness Frozen Deep Inside Me",
+    "category": [
+      "Coldsteel The Hedgeheg",
+      "Moxie"
+    ],
+    "requires": "|Coldsteel The Hedgeheg| AND |Moxie| AND (|Dice 1| OR |Dice 5|)"
+  },
+  {
+    "name": "Random Emotion Overflow",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "peaceful peter",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "Celebrate Good Times, Play Your Serenade.",
+    "category": [
+      "The Three (Four) Peters",
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "Rainbow + Random = RAINDOM! Eh? Ehhhhh?",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "Woah, Ass Ahoy!",
+    "category": [
+      "The Three (Four) Peters",
+      "The Backside Rider"
+    ],
+    "requires": "|The Three (Four) Peters| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "big homer",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "here's to the ones that DIED.",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "credits song for my marriage",
+    "category": [
+      "The Three (Four) Peters"
+    ],
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
+  },
+  {
+    "name": "CRAZY FUNKY BIZARRE SHIP",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "Whoa Lady, All I Need Is You.",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "Is Your Heart Breaking To The Beat?",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Carl Weezer ft. Phinnie Joe Armstrong"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Carl Weezer ft. Phinnie Joe Armstrong| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Play Calm, Play Funky, Play Songs!",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "AWAKEN, HYPE MEN",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "The Backside Rider"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "The Path To AVALON",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Elma"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Elma| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Médico Canta Pagode Russo Com João Joestrela",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Medic"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Medic| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "Beauty & The Bass",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Barbie"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Barbie| AND (|Dice 1| OR |Dice 3|)"
+  },
+  {
+    "name": "Triunfo Racional",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Yerrr"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Yerrr| AND (|Dice 1| OR |Dice 5|)"
+  },
+  {
+    "name": "Taking Me To Overdrive",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "The Backside Rider"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": ":no lies allowed:",
+    "category": [
+      "The Boss"
+    ],
+    "requires": "|The Boss| AND |Dice 1|"
+  },
+  {
+    "name": "STEAL.",
+    "category": [
+      "The Boss",
+      "Joy"
+    ],
+    "requires": "|The Boss| AND |Joy| AND (|Dice 1| OR |Dice 0|)"
+  },
+  {
+    "name": "Graceful Intermission",
+    "category": [
+      "The Boss"
+    ],
+    "requires": "|The Boss| AND |Dice 1|"
+  },
+  {
+    "name": "BASICS IN BETRAYAL",
+    "category": [
+      "The Boss"
+    ],
+    "requires": "|The Boss| AND |Dice 1|"
+  },
+  {
+    "name": "WAT.EXERS OF MEGALONLYFANS",
+    "category": [
+      "The Boss",
+      "The Backside Rider"
+    ],
+    "requires": "|The Boss| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "AND ONLY ONE WILL SURVIVE (THE FIRE)",
+    "category": [
+      "The Boss",
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|The Boss| AND |Bubsy The Bobcat| AND (|Dice 1| OR |Dice 2|)"
+  },
+  {
+    "name": "Hampster Party",
+    "category": [
+      "The Boss"
+    ],
+    "requires": "|The Boss| AND |Dice 1|"
+  },
+  {
+    "name": "guess we doin your wife now",
+    "category": [
+      "The Boss",
+      "VineSpoops"
+    ],
+    "requires": "|The Boss| AND |VineSpoops| AND (|Dice 1| OR |Dice 3|)"
+  },
+  {
+    "name": "Vanished Girl",
+    "category": [
+      "The Boss",
+      "Barbie"
+    ],
+    "requires": "|The Boss| AND |Barbie| AND (|Dice 1| OR |Dice 3|)"
+  },
+  {
+    "name": "VS. :the universe:",
+    "category": [
+      "The Boss",
+      "Wiz & Boomstick"
+    ],
+    "requires": "|The Boss| AND |Wiz & Boomstick| AND (|Dice 1| OR |Dice 4|)"
+  },
+  {
+    "name": "What We're Gonna Do Today",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
+  },
+  {
+    "name": "Can't Control Me",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "Joy"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
+  },
+  {
+    "name": "Electric Pop Punk!",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
+  },
+  {
+    "name": "Bust Out Your Goodbyes",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
+  },
+  {
+    "name": "No ONE in the world for me.",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "Robot Rock-U"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Robot Rock-U| AND (|Dice 2| OR |Dice 4|)"
+  },
+  {
+    "name": "Promised Love",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "Barbie"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "Chasing Supercelled Jellyfish",
+    "category": [
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |The Big Bad Wolf| AND (|Dice 2| OR |Dice 6|)"
+  },
+  {
+    "name": "Fleeting Cure",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "SAINT'S IN A PICKLE",
+    "category": [
+      "Lain Iwakura",
+      "Joy"
+    ],
+    "requires": "|Lain Iwakura| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
+  },
+  {
+    "name": "you don't get me.",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "(Not To Sound Cliche But) THIS WORLD SUCKS!",
+    "category": [
+      "Lain Iwakura",
+      "Elma"
+    ],
+    "requires": "|Lain Iwakura| AND |Elma| AND |Dice 2|"
+  },
+  {
+    "name": "SLAY THE FALSE PROPHET.",
+    "category": [
+      "Lain Iwakura",
+      "Elma"
+    ],
+    "requires": "|Lain Iwakura| AND |Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Victory! Lain",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "“my mosquito pinkpantheress resonance dvi shashshashshash jane remover mashup”",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "Million Dollar Lucky Number",
+    "category": [
+      "Lain Iwakura",
+      "Moxie"
+    ],
+    "requires": "|Lain Iwakura| AND |Moxie| AND (|Dice 2| OR |Dice 5|)"
+  },
+  {
+    "name": "Present Year, Past Demons",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "waiting for someone?",
+    "category": [
+      "Lain Iwakura",
+      "Mother 3"
+    ],
+    "requires": "|Lain Iwakura| AND |Mother 3| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "A New Reality",
+    "category": [
+      "Lain Iwakura"
+    ],
+    "requires": "|Lain Iwakura| AND |Dice 2|"
+  },
+  {
+    "name": "what can't be undone",
+    "category": [
+      "Lain Iwakura",
+      "Heartsick Blades"
+    ],
+    "requires": "|Lain Iwakura| AND |Heartsick Blades| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "FACE THE FIRE, THE FUTURE WAITS",
+    "category": [
+      "Lain Iwakura",
+      "Blood Sugar"
+    ],
+    "requires": "|Lain Iwakura| AND |Blood Sugar| AND (|Dice 2| OR |Dice 5|)"
+  },
+  {
+    "name": "Don't Lose The KEY.",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "ENGAGE TILL YOU'VE HAD ENOUGH",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Victory! Elma",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Long Is The Night",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Feel Good Manon",
+    "category": [
+      "Elma",
+      "The Backside Rider"
+    ],
+    "requires": "|Elma| AND |The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "FLY AWAY, INVADERS! FAR AWAY...",
+    "category": [
+      "Elma",
+      "Robot Rock-U"
+    ],
+    "requires": "|Elma| AND |Robot Rock-U| AND (|Dice 2| AND |Dice 4|)"
+  },
+  {
+    "name": "Lil' Enemies",
+    "category": [
+      "Elma",
+      "... in my katamari"
+    ],
+    "requires": "|Elma| AND |... in my katamari| AND (|Dice 2| AND |Dice 4|)"
+  },
+  {
+    "name": "elma more like elmo ohohohohohoho",
+    "category": [
+      "Elma",
+      "Mother 3"
+    ],
+    "requires": "|Elma| AND |Mother 3| AND (|Dice 2| AND |Dice 3|)"
+  },
+  {
+    "name": "Melancholy Hell",
+    "category": [
+      "Elma",
+      "Heartsick Blades"
+    ],
+    "requires": "|Elma| AND |Heartsick Blades| AND (|Dice 2| AND |Dice 3|)"
+  },
+  {
+    "name": "CHEEESY Firepower!",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "FRITOS FORCE",
+    "category": [
+      "Chester Chomper",
+      "Joy"
+    ],
+    "requires": "|Chester Chomper| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
+  },
+  {
+    "name": "Flammable Intentions",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "Paw-don, But Is Your Order The Pizza & Purr-psi Combo?!",
+    "category": [
+      "Chester Chomper",
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Chester Chomper| AND |Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "Peashooter's Dancetune",
+    "category": [
+      "Chester Chomper",
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Chester Chomper| AND |Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "Victory! Chester Chomper",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "Only You, Sunflower.",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "HOW TO SOLVE WORLD HUNGER",
+    "category": [
+      "Chester Chomper",
+      "Blood Sugar"
+    ],
+    "requires": "|Chester Chomper| AND |Blood Sugar| AND (|Dice 2| OR |Dice 5|)"
+  },
+  {
+    "name": "Gently Sun-kissed",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "Strikin' At Your Back",
+    "category": [
+      "The Backside Rider"
+    ],
+    "requires": "|The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "Ride With Danger",
+    "category": [
+      "The Backside Rider"
+    ],
+    "requires": "|The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "Round Zone 2",
+    "category": [
+      "The Backside Rider"
+    ],
+    "requires": "|The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "Big Booty Baby",
+    "category": [
+      "The Backside Rider",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Backside Rider| AND |The Big Bad Wolf| AND (|Dice 2| AND |Dice 6|)"
+  },
+  {
+    "name": "MEOWning: PAWssibly HISSterical",
+    "category": [
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "The Melancholy Of Waking Up",
+    "category": [
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "Victory! Bubsy",
+    "category": [
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "Good Night, Ristar!",
+    "category": [
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "That's Not A Painting, That's An Adult Thing!",
+    "category": [
+      "Bubsy The Bobcat",
+      "Po"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Po| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "BOTH MY GIRLFRIENDS",
+    "category": [
+      "Bubsy The Bobcat",
+      "Moxie"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Moxie| AND (|Dice 2| OR |Dice 5|)"
+  },
+  {
+    "name": "Wow Smith",
+    "category": [
+      "Bubsy The Bobcat",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Moxie| AND (|Dice 2| OR |Dice 6|)"
+  },
+  {
+    "name": "[The Sky Has STRUCK BACK!!!]",
+    "category": [
+      "Bubsy The Bobcat",
+      "Mother 3"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Mother 3| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "This Cat's A Trainwreck!",
+    "category": [
+      "Bubsy The Bobcat",
+      "Barbie"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "Oh, Look! I Can't Fix You! Aren't These Mashup Artists Wonderful?",
+    "category": [
+      "Bubsy The Bobcat",
+      "Barbie"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "Wow Wow Bubsy",
+    "category": [
+      "Bubsy The Bobcat",
+      "VineSpoops"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |VineSpoops| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "MEOW-FIOSO MOVIES IN 4D!!!",
+    "category": [
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
+  },
+  {
+    "name": "Skadoosh!",
+    "category": [
+      "Po"
+    ],
+    "requires": "|Po| AND |Dice 3|"
+  },
+  {
+    "name": "I Wanna Learn Kung Fu!",
+    "category": [
+      "Po"
+    ],
+    "requires": "|Po| AND |Dice 3|"
+  },
+  {
+    "name": "Rocket Fuel X Baby One More Time - DJ Shadow & De La Soul ft. Tenacious D",
+    "category": [
+      "Po",
+      "Robot Rock-U"
+    ],
+    "requires": "|Po| AND |Robot Rock-U| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "Crazy Little Me",
+    "category": [
+      "Po",
+      "Yerrr"
+    ],
+    "requires": "|Po| AND |Yerrr| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "Friday Knockout",
+    "category": [
+      "Po",
+      "Heartsick Blades"
+    ],
+    "requires": "|Po| AND |Heartsick Blades| AND |Dice 3|"
+  },
+  {
+    "name": "Locked Eye, Open Smile",
+    "category": [
+      "Po"
+    ],
+    "requires": "|Po| AND |Dice 3|"
+  },
+  {
+    "name": "Basics In Spooping",
+    "category": [
+      "VineSpoops"
+    ],
+    "requires": "|VineSpoops| AND |Dice 3|"
+  },
+  {
+    "name": "Trick Or Treat...? WHY NOT BOTH!!!",
+    "category": [
+      "VineSpoops",
+      "Moxie"
+    ],
+    "requires": "|VineSpoops| AND |Moxie| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "Woke Up With A Bling-Bang",
+    "category": [
+      "VineSpoops",
+      "Robot Rock-U"
+    ],
+    "requires": "|VineSpoops| AND |Robot Rock-U| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "GAME OVER, ITALY! WE HAVE SUCCESSFULLY POSSESSED EVERY PIZZA KNOWN TO MAN! AAAA-",
+    "category": [
+      "VineSpoops"
+    ],
+    "requires": "|VineSpoops| AND |Dice 3|"
+  },
+  {
+    "name": "Graveyard Bustin'",
+    "category": [
+      "VineSpoops",
+      "Heartsick Blades"
+    ],
+    "requires": "|VineSpoops| AND |Heartsick Blades| AND |Dice 3|"
+  },
+  {
+    "name": "GARLIC PIZZAFACE",
+    "category": [
+      "VineSpoops",
+      "Yerrr"
+    ],
+    "requires": "|VineSpoops| AND |Yerrr| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "DESTROY THE CITY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! FU-",
+    "category": [
+      "VineSpoops",
+      "... in my katamari"
+    ],
+    "requires": "|VineSpoops| AND |... in my katamari| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "GET GHOST... OUT OF MY BUTT!!! AAAAAAA-",
+    "category": [
+      "VineSpoops"
+    ],
+    "requires": "|VineSpoops| AND |Dice 3|"
+  },
+  {
+    "name": "POWER PILL GARDEN",
+    "category": [
+      "VineSpoops",
+      "Mother 3"
+    ],
+    "requires": "|VineSpoops| AND |Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "NOTHING LEFT TO WIPE",
+    "category": [
+      "VineSpoops",
+      "Mother 3"
+    ],
+    "requires": "|VineSpoops| AND |Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "DEMISE COLLECTOR",
+    "category": [
+      "VineSpoops",
+      "Mother 3"
+    ],
+    "requires": "|VineSpoops| AND |Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "He didn't even lock the door...",
+    "category": [
+      "VineSpoops",
+      "Mother 3"
+    ],
+    "requires": "|VineSpoops| AND |Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "Victory! Vinespoops",
+    "category": [
+      "VineSpoops"
+    ],
+    "requires": "|VineSpoops| AND |Dice 3|"
+  },
+  {
+    "name": "Mother 3",
+    "category": [
+      "Mother 3"
+    ],
+    "requires": "|Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "see for #13 [120.193][selected mix]",
+    "category": [
+      "Mother 3",
+      "Loon"
+    ],
+    "requires": "|Mother 3| AND |Loon| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "Otherworldly Tree",
+    "category": [
+      "Mother 3"
+    ],
+    "requires": "|Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "SHOW ME",
+    "category": [
+      "Mother 3",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Mother 3| AND |The Big Bad Wolf| AND (|Dice 3| OR |Dice 6|)"
+  },
+  {
+    "name": "how's the new girl feeling now?",
+    "category": [
+      "Mother 3",
+      "Barbie"
+    ],
+    "requires": "|Mother 3| AND |Barbie| AND |Dice 3|"
+  },
+  {
+    "name": "G- Film? Theory: Mother 3's SHOCKING Hidden SECRETS!",
+    "category": [
+      "Mother 3"
+    ],
+    "requires": "|Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "Moxie 3",
+    "category": [
+      "Mother 3",
+      "Moxie"
+    ],
+    "requires": "|Mother 3| AND |Moxie| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "we find comfort in what scares us, sometimes.",
+    "category": [
+      "Mother 3"
+    ],
+    "requires": "|Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "Victory! Mother 3",
+    "category": [
+      "Mother 3"
+    ],
+    "requires": "|Mother 3| AND |Dice 3|"
+  },
+  {
+    "name": "♀",
+    "category": [
+      "Barbie"
+    ],
+    "requires": "|Barbie| AND |Dice 3|"
+  },
+  {
+    "name": "“I Can Be Whatever Everybody Wants”",
+    "category": [
+      "Barbie"
+    ],
+    "requires": "|Barbie| AND |Dice 3|"
+  },
+  {
+    "name": "The Mysteries Of Love",
+    "category": [
+      "Barbie",
+      "Moxie"
+    ],
+    "requires": "|Barbie| AND |Moxie| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "Two Blades, One Goal",
+    "category": [
+      "Heartsick Blades"
+    ],
+    "requires": "|Heartsick Blades| AND |Dice 3|"
+  },
+  {
+    "name": "Spinning Supernova",
+    "category": [
+      "Heartsick Blades",
+      "... in my katamari"
+    ],
+    "requires": "|Heartsick Blades| AND |... in my katamari| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "KNIVES PARTY",
+    "category": [
+      "Heartsick Blades",
+      "Blood Sugar"
+    ],
+    "requires": "|Heartsick Blades| AND |Blood Sugar| AND (|Dice 3| OR |Dice 5|)"
+  },
+  {
+    "name": "Heaven's Little Killjoys",
+    "category": [
+      "Heartsick Blades"
+    ],
+    "requires": "|Heartsick Blades| AND |Dice 3|"
+  },
+  {
+    "name": "ROCK HERO",
+    "category": [
+      "Robot Rock-U"
+    ],
+    "requires": "|Robot Rock-U| AND |Dice 4|"
+  },
+  {
+    "name": "They Got Nothin' On Us",
+    "category": [
+      "Robot Rock-U"
+    ],
+    "requires": "|Robot Rock-U| AND |Dice 4|"
+  },
+  {
+    "name": "DAFT PEOPLE",
+    "category": [
+      "Robot Rock-U",
+      "Yerrr"
+    ],
+    "requires": "|Robot Rock-U| AND |Yerrr| AND (|Dice 4| OR |Dice 5|)"
+  },
+  {
+    "name": "tl;dr: they say we must fight.",
+    "category": [
+      "Robot Rock-U",
+      "Morbel VS Capclown"
+    ],
+    "requires": "|Robot Rock-U| AND |Morbel VS Capclown| AND (|Dice 4| OR |Dice 0|)"
+  },
+  {
+    "name": "Don't Roll Alone",
+    "category": [
+      "... in my katamari"
+    ],
+    "requires": "|... in my katamari| AND |Dice 4|"
+  },
+  {
+    "name": "sayonara, lunar orbit",
+    "category": [
+      "... in my katamari"
+    ],
+    "requires": "|... in my katamari| AND |Dice 4|"
+  },
+  {
+    "name": "He's Wiz & I'm Boomstick!",
+    "category": [
+      "Wiz & Boomstick"
+    ],
+    "requires": "|Wiz & Boomstick| AND |Dice 4|"
+  },
+  {
+    "name": "THE SONIC RECREATION OF THE END OF THE WORLD",
+    "category": [
+      "Blood Sugar"
+    ],
+    "requires": "|Blood Sugar| AND |Dice 5|"
+  },
+  {
+    "name": "Die For Me!",
+    "category": [
+      "Blood Sugar",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Blood Sugar| AND |The Big Bad Wolf| AND (|Dice 5| OR |Dice 6|)"
+  },
+  {
+    "name": "Fool For 2",
+    "category": [
+      "Blood Sugar",
+      "Loon"
+    ],
+    "requires": "|Blood Sugar| AND |Loon| AND |Dice 5|"
+  },
+  {
+    "name": "Reach You The Hyperviolence",
+    "category": [
+      "Blood Sugar"
+    ],
+    "requires": "|Blood Sugar| AND |Dice 5|"
+  },
+  {
+    "name": "sleepyorb",
+    "category": [
+      "Loon"
+    ],
+    "requires": "|Loon| AND |Dice 5|"
+  },
+  {
+    "name": "Loonlabby",
+    "category": [
+      "Loon",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Loon| AND |The Big Bad Wolf| AND (|Dice 5| OR |Dice 6|)"
+  },
+  {
+    "name": "Royalcore Bombcore",
+    "category": [
+      "Loon"
+    ],
+    "requires": "|Loon| AND |Dice 5|"
+  },
+  {
+    "name": "blinded to pretend",
+    "category": [
+      "Loon"
+    ],
+    "requires": "|Loon| AND |Dice 5|"
+  },
+  {
+    "name": "MOXIE ON TOP!!!!!!!",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "Foxy Lodge Worldwide",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "𝓑𝓐𝓓(die! ↻(𓄼 .̀ ̮.́)Ψ)[C O R E]",
+    "category": [
+      "Moxie",
+      "The Big Bad Wolf"
+    ],
+    "requires": "|Moxie| AND |The Big Bad Wolf| AND (|Dice 5| OR |Dice 6|)"
+  },
+  {
+    "name": "born to get hella bands",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "InsteRail Trip To Somewhere Else",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "OCKY-TO-DEATH: THE DICEY WAY",
+    "category": [
+      "Yerrr"
+    ],
+    "requires": "|Yerrr| AND |Dice 5|"
+  },
+  {
+    "name": "Pizza For Brains",
+    "category": [
+      "Yerrr"
+    ],
+    "requires": "|Yerrr| AND |Dice 5|"
+  },
+  {
+    "name": "Smashing Porkchops",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Dice 6|"
+  },
+  {
+    "name": "HOUSEBLOWER",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Dice 6|"
+  },
+  {
+    "name": "THE BIGGEST & BADDEST TO DO IT",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Dice 6|"
+  },
+  {
+    "name": "SLAUGHTERHOUSE",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Morbel VS Capclown| AND (|Dice 6| OR |Dice 0|)"
+  },
+  {
+    "name": "game on.",
+    "category": [
+      "Joy"
+    ],
+    "requires": "|Joy| AND |Dice 0|"
+  },
+  {
+    "name": "OCTO GAMES !!",
+    "category": [
+      "Joy"
+    ],
+    "requires": "|Joy| AND |Dice 0|"
+  },
+  {
+    "name": "Victory! Joy",
+    "category": [
+      "Joy"
+    ],
+    "requires": "|Joy| AND |Dice 0|"
+  },
+  {
+    "name": "i fucking hate joy",
+    "category": [
+      "Joy"
+    ],
+    "requires": "|Joy| AND |Dice 0|"
+  },
+  {
+    "name": "Black Yellow Morbius",
+    "category": [
+      "Joy",
+      "Morbel VS Capclown"
+    ],
+    "requires": "|Joy| AND |Morbel VS Capclown| AND |Dice 0|"
+  },
+  {
+    "name": "WE THE BIGGEST",
+    "category": [
+      "Big Man"
+    ],
+    "requires": "|Big Man| AND |Dice 0|"
+  },
+  {
+    "name": "They Invited PAC-MAN?!",
+    "category": [
+      "Pac-Man"
+    ],
+    "requires": "|Pac-Man| AND |Dice 0|"
+  },
+  {
+    "name": "MADE TO MORB, FORCED TO FOOL",
+    "category": [
+      "Morbel VS Capclown"
+    ],
+    "requires": "|Morbel VS Capclown| AND |Dice 0|"
+  },
+  {
+    "name": "Fuck Your Rolls, Fuck Your Progress, And Most Importantly... Fuck You!",
+    "category": [
+      "RNGesus"
+    ],
+    "requires": "|RNGesus| AND |Dice 0|"
+  },
+  {
+    "name": "if i roll a [present emoji] [christmas tree emoji], you're a merry ol' pal",
+    "category": [
+      "RNGesus"
+    ],
+    "requires": "|RNGesus| AND |Dice 0|"
+  },
+  {
+    "name": "Hosts With The Most",
+    "category": [
+      "RNGesus"
+    ],
+    "requires": "|RNGesus| AND |Dice 0|"
+  },
+  {
+    "name": "LUCKY CATCH!",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 1|"
+  },
+  {
+    "name": "SIX MORE SIDES :the game:",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 2|"
+  },
+  {
+    "name": "bubcore",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 3|"
+  },
+  {
+    "name": "picking through the cards, knowing what's nearby...",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 4|"
+  },
+  {
+    "name": "water tumbling from the fountain...",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 5|"
+  },
+  {
+    "name": "Every Gamble's Wild Side",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|Dice 6|"
+  },
+  {
+    "name": "Aesop Funk",
+    "category": [
+      "Yerrr"
+    ],
+    "requires": "|Yerrr| AND |Dice 5|"
+  },
+  {
+    "name": "LUCKIER CATCH: ROLL THE DICE!",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|@Character:6| AND |@Dice Face:3|"
+  },
+  {
+    "name": "Perdido Nas Alianças",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "SEVENTH TRUMPET",
+    "category": [
+      "Blood Sugar",
+      "The Boss"
+    ],
+    "requires": "|Blood Sugar| AND |The Boss| AND (|Dice 5| OR |Dice 1|)"
+  },
+  {
+    "name": "Luigi's “Hit”",
+    "category": [
+      "The Backside Rider"
+    ],
+    "requires": "|The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "Let Me Be A Girl!",
+    "category": [
+      "Barbie"
+    ],
+    "requires": "|Barbie| AND |Dice 3|"
+  },
+  {
+    "name": "2cheesy",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "Invaded By The Dark",
+    "category": [
+      "... in my katamari"
+    ],
+    "requires": "|... in my katamari| AND |Dice 4|"
+  },
+  {
+    "name": "DO THE IMPOSSIBLE.",
+    "category": [
+      "Elma",
+      "Wiz & Boomstick"
+    ],
+    "requires": "|Wiz & Boomstick| AND |Elma| AND (|Dice 4| OR |Dice 2|)"
+  },
+  {
+    "name": "Dreaming Under The Moon",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "HOUSEBLOWER [B3 Remix]",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Dice 6|"
+  },
+  {
+    "name": "Champion's Castle: Island Park",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "WOKE IT UP, BABY!",
+    "category": [
+      "Robot Rock-U",
+      "VineSpoops"
+    ],
+    "requires": "|Robot Rock-U| AND |VineSpoops| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "We've Found The KEY, Renegade.",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Que Comece A Caçada",
+    "category": [
+      "The Big Bad Wolf",
+      "The Boss"
+    ],
+    "requires": "|The Big Bad Wolf| AND |The Boss| AND (|Dice 1| OR |Dice 6|)"
+  },
+  {
+    "name": "Swag Inside Me 2: Always Bet On Woody Theory",
+    "category": [
+      "The Big Bad Wolf",
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |The Big Bad Wolf| AND (|Dice 2| OR |Dice 6|)"
+  },
+  {
+    "name": "Your Honor, You're The Father.",
+    "category": [
+      "Ethan McManus"
+    ],
+    "requires": "|Ethan McManus| AND |Dice 3|"
+  },
+  {
+    "name": "Mark This Day In The History Books!",
+    "category": [
+      "Ethan McManus"
+    ],
+    "requires": "|Ethan McManus| AND |Dice 3|"
+  },
+  {
+    "name": "Born With A Halo",
+    "category": [
+      "Ethan McManus",
+      "Po"
+    ],
+    "requires": "|Ethan McManus| AND |Po| AND |Dice 3|"
+  },
+  {
+    "name": "John Pork's Gamer Food",
+    "category": [
+      "Ethan McManus",
+      "Chester Chomper"
+    ],
+    "requires": "|Ethan McManus| AND |Chester Chomper| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "HOLY CRAP, I'M AN XBOX!",
+    "category": [
+      "Ethan McManus",
+      "The Three (Four) Peters"
+    ],
+    "requires": "|Ethan McManus| AND |The Three (Four) Peters| AND (|Dice 1| OR |Dice 3|)"
+  }
+]

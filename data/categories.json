@@ -1,0 +1,17 @@
+{
+    "Character": {
+        "hidden": true
+    },
+    "Bonus Character": {
+        "hidden": true
+    },
+    "Dice": {
+        "hidden": true
+    },
+    "Bonus Dice": {
+        "hidden": true
+    },
+    "The Backside Rider": {
+        "yaml_option": ["enable_backside_rider"]
+    }
+}

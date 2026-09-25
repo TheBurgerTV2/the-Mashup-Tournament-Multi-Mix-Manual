@@ -1,0 +1,8 @@
+{
+    "game": "Manual_diceytumble_theburger",
+	"authors": ["theburger", "fung"],
+    "minimum_ap_version": "0.6.7",
+    "world_version": "1.6.0",
+    "compatible_version": 7,
+    "version": 7
+}
