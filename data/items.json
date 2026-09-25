@@ -1,568 +1,1584 @@
 [
   {
-    "count": "75",
-    "name": "Dice Fragment",
-    "category": [
-      "Goal MacGuffin"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "25",
-    "name": "Extra Dice Fragment for fun",
-    "category": [
-      "Goal MacGuffin"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
     "count": 1,
-    "name": "DJ Sray",
+    "name": "MASH N' UP",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Jigglypuff",
+    "name": "Digital Dream Isle",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Coldsteel The Hedgeheg",
+    "name": "all eyes on me.",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Three (Four) Peters",
+    "name": "CD Bonanza",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+    "name": "MIXING STATION",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Boss",
+    "name": "Spotify Showdown",
     "category": [
-      "Character",
-      "Dice 1 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Carl Weezer ft. Phinnie Joe Armstrong",
+    "name": "untitled green tournament",
     "category": [
-      "Character",
-      "Dice 2 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Lain Iwakura",
+    "name": "Uncle Grandpa for a Day",
     "category": [
-      "Character",
-      "Dice 2 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Elma",
+    "name": "Last Match Tonight",
     "category": [
-      "Character",
-      "Dice 2 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Chester Chomper",
+    "name": "[ LIGHTNING ROUND ]",
     "category": [
-      "Character",
-      "Dice 2 Character"
+      "Tournament"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Backside Rider",
-    "category": [
-      "Character",
-      "Dice 2 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bubsy The Bobcat",
-    "category": [
-      "Character",
-      "Dice 2 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Po",
-    "category": [
-      "Character",
-      "Dice 3 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "VineSpoops",
-    "category": [
-      "Character",
-      "Dice 3 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mother 3",
-    "category": [
-      "Character",
-      "Dice 3 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Barbie",
-    "category": [
-      "Character",
-      "Dice 3 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Heartsick Blades",
-    "category": [
-      "Character",
-      "Dice 3 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Robot Rock-U",
-    "category": [
-      "Character",
-      "Dice 4 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "... in my katamari",
-    "category": [
-      "Character",
-      "Dice 4 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Wiz & Boomstick",
-    "category": [
-      "Character",
-      "Dice 4 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Blood Sugar",
-    "category": [
-      "Character",
-      "Dice 5 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Loon",
-    "category": [
-      "Character",
-      "Dice 5 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Moxie",
-    "category": [
-      "Character",
-      "Dice 5 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Yerrr",
-    "category": [
-      "Character",
-      "Dice 5 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Big Bad Wolf",
-    "category": [
-      "Character",
-      "Dice 6 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Joy",
+    "name": "Edacra",
     "category": [
       "Bonus Character",
-      "Dice 0 Character"
+      "MASH N' UP Bonus Character"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "RNGesus",
-    "category": [
-      "Bonus Character",
-      "Dice 0 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Big Man",
-    "category": [
-      "Bonus Character",
-      "Dice 0 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Pac-Man",
-    "category": [
-      "Bonus Character",
-      "Dice 0 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Medic",
-    "category": [
-      "Bonus Character",
-      "Dice 0 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Morbel VS Capclown",
-    "category": [
-      "Bonus Character",
-      "Dice 0 Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 1",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 2",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 3",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 4",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 5",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 6",
-    "category": [
-      "Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dice 0",
-    "category": [
-      "Bonus Dice",
-      "Dice Face"
-    ],
-    "progression": true
-  },
-  {
-    "count": "25",
-    "name": "Song Skip",
-    "category": [
-      "Song Skips"
-    ],
-    "useful": true
-  },
-  {
-    "count": "30",
-    "name": "RNGesus' Blessing",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "I Wanna Be The Filler",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Potion",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "COLDSTEEL'S BADASS FILLER (holy fucking shit it's so cool)",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Cutaway Gag",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "「RELLENO」",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": ":filler:",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Buddy Holly Riff",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Really Great Filler For A Really Hip Young Crowd",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Wii U",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Bag of Cheetos: Flamin' Hot!",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Apple Bottom Jeans",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Fur-ller",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Totally Bodacious Filler!",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "JOKES ON YOU DUMBASS! FILLER HAS GHOST TOO!!!!!!!!",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "https://imgur.com/7drihGw",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Girly Filler",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "She was 17, Scott",
-    "category": ["Filler"],
-    "Trap": true
-  },
-  {
-    "count": "1",
-    "name": "Scratched Record",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "The Filler (Eek!)",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Strength Feat",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "FUCK IT. I LIED. IT'S A TRAP. WHAT YOU GONNA DO?",
-    "category": ["Filler"],
-    "Trap": true
-  },
-  {
-    "count": "1",
-    "name": "#FILLER",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Extra Girlfriend for fun",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Yeeyee Ass Haircut",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Filler Eminem was too afraid to !collect",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Joycon (w/ drift)",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Ay! (Filler)",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Power Pellet",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "Oktoberfest!",
-    "category": ["Filler"],
-    "Trap": true
-  },
-  {
-    "count": "1",
-    "name": "When you smell FILLER in the vicinity #MorbiusSweep #GetThatFiller",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "1",
-    "name": "loss",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": 1,
-    "name": "Ethan McManus",
+    "name": "DJ Geist",
     "category": [
       "Character",
-      "Dice 3 Character"
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rasputin",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sackboy",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dial-Tone Telephone",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Fame Monster",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Phineas and Ferb",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noiriplier",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic Miku",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Lone Warrior",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hatty Hattington",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spider-Man",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gordon Freeman",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Leather Jacket",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "GigaChad",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "nobody here",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "h0peles$0uL",
+    "category": [
+      "Character",
+      "MASH N' UP Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Larry Da Vinci",
+    "category": [
+      "Bonus Character",
+      "MASH N' UP Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SMILE",
+    "category": [
+      "Bonus Character",
+      "Digital Dream Island Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snow Angels",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Neptr",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gir",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Brainstorm",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ENA & Moony",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Katamonki",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Block Busters",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Squidward Tentacles",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lil Highness",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Digi-Duo",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Paralytic Hopes",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dreamscapers",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Midnight Motorists",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Countdown Creeps",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elysium",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saul Goodman (DDI)",
+    "category": [
+      "Character",
+      "Digital Dream Island Character",
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SƎNPAI",
+    "category": [
+      "Bonus Character",
+      "Digital Dream Island Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bo Burnham",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Oracles",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ostinatbo",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Poetmine",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Confronting Yourself",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Once-ler",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Retribution",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flash Monolith",
+    "category": [
+      "Bonus Character",
+      "all eyes on me. Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jimmy Timmy Power Hour",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "U.U.F.O. (AEOM)",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Epoch",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ray Parker Jr.",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cherry Pepsi",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emmet Brickowski",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alejandro Burrosmuertos",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Protegent",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Somniphobia",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frank Sinatra",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Britney Spears",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Virtual Analysis Line",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kill Bill: The Rapper",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Nostalgia Critic (AEOM)",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Michael Bay",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MainManFlux",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Corrupted Influence",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monstercat",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King Kunta",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "BuiltByGamers",
+    "category": [
+      "Character",
+      "all eyes on me. Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mazin",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "end",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sega Pat",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "𝐃𝐢𝐯𝐚",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bobnface",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Genocide City",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metallic Look-a-Likes",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zatanna",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kajiru Mera",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tormenta China",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mayhem",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gundam!Kasane Teto",
+    "category": [
+      "Bonus Character",
+      "CD Bonanza Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tentionmaru",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apollo",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polka Dot",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jacket Niwatari",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Akita Neru",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Malkuth",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Flyentologist",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lizardi Garibaldi",
+    "category": [
+      "Character",
+      "CD Bonanza Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "U.U.F.O. (MIXING STATION)",
+    "category": [
+      "Character",
+      "MIXING STATION Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chonny Jash",
+    "category": [
+      "Character",
+      "MIXING STATION Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mr. Blizzard",
+    "category": [
+      "Character",
+      "MIXING STATION Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Algorhythm",
+    "category": [
+      "Bonus Character",
+      "Spotify Showdown Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DJ X",
+    "category": [
+      "Bonus Character",
+      "Spotify Showdown Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Man I Trust",
+    "category": [
+      "Character",
+      "Spotify Showdown Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sublime Trio",
+    "category": [
+      "Character",
+      "Spotify Showdown Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "“Barbie & Ken”",
+    "category": [
+      "Character",
+      "Spotify Showdown Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Masayoshi Takanaka",
+    "category": [
+      "Character",
+      "Spotify Showdown Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "VOL-PAI-TRON",
+    "category": [
+      "Bonus Character",
+      "untitled green tournament Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Funny Freddy",
+    "category": [
+      "Bonus Character",
+      "untitled green tournament Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lord Farquaad",
+    "category": [
+      "Bonus Character",
+      "untitled green tournament Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wing Gaster",
+    "category": [
+      "Bonus Character",
+      "untitled green tournament Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Herobrine",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hail Mary Mallon",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Sonic",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Berdly! (ft. Noelle)",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SURVIVE THE KILL THE KILLERS IN AREA 51",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The SenPai of Blair",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Forgotten Body of Years (ugt)",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "gSports",
+    "category": [
+      "Character",
+      "untitled green tournament Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Uncle Grandpa",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dewey",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fighting Goku Team",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IGOR",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adam Conover",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Powerline",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lost & Found",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Love & Ponystep",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Hat",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stan Smith",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Else",
+    "category": [
+      "Bonus Character",
+      "Uncle Grandpa for a Day Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jack & Elmo",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spooky Men",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dayshift at Fuckboy's",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lofi Girl",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saul Goodman (UGFAD)",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ramona Flowers",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "【ＰＡＴＲＩＣＫ＇Ｓ　ＤＲＥＡＭ】",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Modern Day Razzstars",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Edmund McMillen",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mean Bean Machine",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moai",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mario Judah",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ludwig Van BEAThoven",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mirror Magic",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ECHO",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mothman",
+    "category": [
+      "Character",
+      "Uncle Grandpa for a Day Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Late Night Goons",
+    "category": [
+      "Bonus Character",
+      "Last Match Tonight Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Headmaster Alpharad",
+    "category": [
+      "Bonus Character",
+      "Last Match Tonight Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Nostalgia Critic (LMT)",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ken",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AI Napoleon Bonaparte",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forgotten Body of Years (LMT)",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undersus",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Disillusion",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Time Balancer Kid",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "live fast die young",
+    "category": [
+      "Character",
+      "Last Match Tonight Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Double Rainbow",
+    "category": [
+      "Bonus Character",
+      "[ LIGHTNING ROUND ] Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Minnatsuki",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "YouTube Ad Bot",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Todd The Turnip",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Deserter And Revenant",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dead to Me",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pumpkin Dance",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stephane",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DRAGONLADY",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rhythm 'N' Face",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "theprincess",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "pilotredsun",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Phantom Meme",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Down To The Crust",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grayfruit",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Piconjo",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Battle Cats",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "THEDARK.exe",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Noc+10",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Giegue",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cirno's Perfect Math Class",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "NOTHING WORLD FEAT. DOG BUS",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Omega Tiger Woods",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M.C. & M.E.",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Weegee From The Sky",
+    "category": [
+      "Character",
+      "[ LIGHTNING ROUND ] Character"
     ],
     "progression": true
   }
