@@ -1,20 +1,6 @@
 [
-  {
-    "count": 1,
-    "name": "MASH N' UP",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Digital Dream Isle",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
+  {"name": "MASH N' UP", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "Digital Dream Isle", "count": 1, "progression": true, "category": ["Tournament"]},
   {
     "count": 1,
     "name": "all eyes on me.",
@@ -79,330 +65,42 @@
     ],
     "progression": true
   },
-  {
-    "count": 1,
-    "name": "Edacra",
-    "category": [
-      "Bonus Character",
-      "MASH N' UP Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "DJ Geist",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Rasputin",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sackboy",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dial-Tone Telephone",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Fame Monster",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Phineas and Ferb",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Noiriplier",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sonic Miku",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Lone Warrior",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hatty Hattington",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Spider-Man",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Gordon Freeman",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Leather Jacket",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "GigaChad",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "nobody here",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "h0peles$0uL",
-    "category": [
-      "Character",
-      "MASH N' UP Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Larry Da Vinci",
-    "category": [
-      "Bonus Character",
-      "MASH N' UP Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "SMILE",
-    "category": [
-      "Bonus Character",
-      "Digital Dream Island Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Snow Angels",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Neptr",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Gir",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Brainstorm",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "ENA & Moony",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Katamonki",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Block Busters",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Squidward Tentacles",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lil Highness",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Digi-Duo",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Paralytic Hopes",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dreamscapers",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Midnight Motorists",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Countdown Creeps",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Elysium",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Saul Goodman (DDI)",
-    "category": [
-      "Character",
-      "Digital Dream Island Character",
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "SƎNPAI",
-    "category": [
-      "Bonus Character",
-      "Digital Dream Island Bonus Character"
-    ],
-    "progression": true
-  },
+  {"name": "Edacra", "count": 1, "progression": true, "category": ["Bonus Character", "MASH N' UP Bonus Character"]},
+  {"name": "DJ Geist", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Rasputin", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Sackboy", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Dial-Tone Telephone", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "The Fame Monster", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Phineas and Ferb", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Noiriplier", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Sonic Miku", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "The Lone Warrior", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Hatty Hattington", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Spider-Man", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Gordon Freeman", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Leather Jacket", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "GigaChad", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "nobody here", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "h0peles$0uL", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
+  {"name": "Larry Da Vinci", "count": 1, "progression": true, "category": ["Bonus Character", "MASH N' UP Bonus Character"]},
+  {"name": "SMILE", "count": 1, "progression": true, "category": ["Bonus Character", "Digital Dream Isle Bonus Character"]},
+  {"name": "Snow Angels", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Neptr", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Gir", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Brainstorm", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "ENA & Moony", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Katamonki", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Block Busters", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Squidward Tentacles", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Lil Highness", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Digi-Duo", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Paralytic Hopes", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Dreamscapers", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Midnight Motorists", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Countdown Creeps", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Elysium", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "Saul Goodman (DDI)", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
+  {"name": "SƎNPAI", "count": 1, "progression": true, "category": ["Bonus Character", "Digital Dream Isle Bonus Character"]},
   {
     "count": 1,
     "name": "Bo Burnham",
@@ -437,7 +135,7 @@
       "Bonus Character",
       "all eyes on me. Bonus Character"
     ],
-    "progression": true
+    "filler": true
   },
   {
     "count": 1,
