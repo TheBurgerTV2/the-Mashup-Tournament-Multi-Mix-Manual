@@ -1,46 +1,12 @@
 [
+  {"name": "temporary goal item", "count": 1, "progression_skip_balancing": true, "category": ["Goal MacGuffin"]},
   {"name": "MASH N' UP", "count": 1, "progression": true, "category": ["Tournament"]},
   {"name": "Digital Dream Isle", "count": 1, "progression": true, "category": ["Tournament"]},
-  {
-    "count": 1,
-    "name": "all eyes on me.",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "CD Bonanza",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "MIXING STATION",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Spotify Showdown",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "untitled green tournament",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
+  {"name": "all eyes on me.", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "CD Bonanza", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "MIXING STATION", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "Spotify Showdown", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "untitled green tournament", "count": 1, "progression": true, "category": ["Tournament"]},
   {
     "count": 1,
     "name": "Uncle Grandpa for a Day",
@@ -101,627 +67,76 @@
   {"name": "Elysium", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
   {"name": "Saul Goodman (DDI)", "count": 1, "progression": true, "category": ["Character", "Digital Dream Isle Character"]},
   {"name": "SƎNPAI", "count": 1, "progression": true, "category": ["Bonus Character", "Digital Dream Isle Bonus Character"]},
-  {
-    "count": 1,
-    "name": "Bo Burnham",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Crystal Oracles",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ostinatbo",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Poetmine",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
-    "name": "Confronting Yourself",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Once-ler",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Retribution",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Flash Monolith",
-    "category": [
-      "Bonus Character",
-      "all eyes on me. Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jimmy Timmy Power Hour",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "U.U.F.O. (AEOM)",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Epoch",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ray Parker Jr.",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Cherry Pepsi",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Emmet Brickowski",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Alejandro Burrosmuertos",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Protegent",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Somniphobia",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Frank Sinatra",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Britney Spears",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Virtual Analysis Line",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Kill Bill: The Rapper",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Nostalgia Critic (AEOM)",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Michael Bay",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "MainManFlux",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Corrupted Influence",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Monstercat",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "King Kunta",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "BuiltByGamers",
-    "category": [
-      "Character",
-      "all eyes on me. Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mazin",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "end",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sega Pat",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "𝐃𝐢𝐯𝐚",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bobnface",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Genocide City",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Metallic Look-a-Likes",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Zatanna",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Kajiru Mera",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Tormenta China",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mayhem",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Gundam!Kasane Teto",
-    "category": [
-      "Bonus Character",
-      "CD Bonanza Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Tentionmaru",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Apollo",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Polka Dot",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jacket Niwatari",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Akita Neru",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Malkuth",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Flyentologist",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lizardi Garibaldi",
-    "category": [
-      "Character",
-      "CD Bonanza Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "U.U.F.O. (MIXING STATION)",
-    "category": [
-      "Character",
-      "MIXING STATION Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Chonny Jash",
-    "category": [
-      "Character",
-      "MIXING STATION Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mr. Blizzard",
-    "category": [
-      "Character",
-      "MIXING STATION Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Algorhythm",
-    "category": [
-      "Bonus Character",
-      "Spotify Showdown Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "DJ X",
-    "category": [
-      "Bonus Character",
-      "Spotify Showdown Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Man I Trust",
-    "category": [
-      "Character",
-      "Spotify Showdown Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sublime Trio",
-    "category": [
-      "Character",
-      "Spotify Showdown Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "“Barbie & Ken”",
-    "category": [
-      "Character",
-      "Spotify Showdown Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Masayoshi Takanaka",
-    "category": [
-      "Character",
-      "Spotify Showdown Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "VOL-PAI-TRON",
-    "category": [
-      "Bonus Character",
-      "untitled green tournament Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Funny Freddy",
-    "category": [
-      "Bonus Character",
-      "untitled green tournament Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lord Farquaad",
-    "category": [
-      "Bonus Character",
-      "untitled green tournament Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Wing Gaster",
-    "category": [
-      "Bonus Character",
-      "untitled green tournament Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Herobrine",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hail Mary Mallon",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Metal Sonic",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Berdly! (ft. Noelle)",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "SURVIVE THE KILL THE KILLERS IN AREA 51",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The SenPai of Blair",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Forgotten Body of Years (ugt)",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "gSports",
-    "category": [
-      "Character",
-      "untitled green tournament Character"
-    ],
-    "progression": true
-  },
+  {"name": "Bo Burnham", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Crystal Oracles", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Jimmy Timmy Power Hour", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "U.U.F.O.", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Epoch", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Ray Parker Jr.", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Cherry Pepsi", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Emmet Brickowski", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Alejandro Burrosmuertos", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Protegent", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Somniphobia", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Frank Sinatra", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Britney Spears", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Virtual Analysis Line", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Kill Bill: The Rapper", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "The Nostalgia Critic", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Michael Bay", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "MainManFlux", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Corrupted Influence", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Monstercat", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "King Kunta", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "BuiltByGamers", "count": 1, "progression": true, "category": ["Character", "all eyes on me. Character"]},
+  {"name": "Ostinatbo", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Poetmine", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Confronting Yourself", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "The Once-ler", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Retribution", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Flash Monolith", "count": 1, "progression": true, "category": ["Bonus Character", "all eyes on me. Bonus Character"]},
+  {"name": "Mazin", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "end", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Tentionmaru", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Apollo", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Polka Dot", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Jacket Niwatari", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Akita Neru", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Malkuth", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "The Flyentologist", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Lizardi Garibaldi", "count": 1, "progression": true, "category": ["Character", "CD Bonanza Character"]},
+  {"name": "Sega Pat", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "𝐃𝐢𝐯𝐚", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Bobnface", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Genocide City", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Metallic Look-a-Likes", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Sonic.EXE", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Zatanna", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Kajiru Mera", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Tormenta China", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Mayhem", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "Gundam!Kasane Teto", "count": 1, "progression": true, "category": ["Bonus Character", "CD Bonanza Bonus Character"]},
+  {"name": "U.U.F.O. (MIXING STATION)", "count": 1, "progression": true, "category": ["Character", "MIXING STATION Character"]},
+  {"name": "Chonny Jash", "count": 1, "progression": true, "category": ["Character", "MIXING STATION Character"]},
+  {"name": "Mr. Blizzard", "count": 1, "progression": true, "category": ["Character", "MIXING STATION Character"]},
+  {"name": "The Algorhythm", "count": 1, "progression": true, "category": ["Bonus Character", "Spotify Showdown Bonus Character"]},
+  {"name": "DJ X", "count": 1, "progression": true, "category": ["Bonus Character", "Spotify Showdown Bonus Character"]},
+  {"name": "The Man I Trust", "count": 1, "progression": true, "category": ["Character", "Spotify Showdown Character"]},
+  {"name": "Sublime Trio", "count": 1, "progression": true, "category": ["Character", "Spotify Showdown Character"]},
+  {"name": "“Barbie & Ken”", "count": 1, "progression": true, "category": ["Character", "Spotify Showdown Character"]},
+  {"name": "Masayoshi Takanaka", "count": 1, "progression": true, "category": ["Character", "Spotify Showdown Character"]},
+  {"name": "Herobrine", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "Hail Mary Mallon", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "Metal Sonic", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "Berdly! (ft. Noelle)", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "SURVIVE THE KILL THE KILLERS IN AREA 51", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "The SenPai of Blair", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "The Forgotten Body of Years (ugt)", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "gSports", "count": 1, "progression": true, "category": ["Character", "untitled green tournament Character"]},
+  {"name": "VOL-PAI-TRON", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
+  {"name": "Funny Freddy", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
+  {"name": "Lord Farquaad", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
+  {"name": "Wing Gaster", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
   {
     "count": 1,
     "name": "Uncle Grandpa",

@@ -1,4 +1,10 @@
 {
-  {"MASH N' UP": {"requires": "|MASH N' UP|"},
-  {"Digital Dream Isle": {"requires": "|Digital Dream Isle|"} 
+  "MASH N' UP": {"requires": "|MASH N' UP|"},
+  "Digital Dream Isle": {"requires": "|Digital Dream Isle|"},
+  "all eyes on me.": {"requires": "|all eyes on me.|"},
+  "CD Bonanza": {"requires": "|CD Bonanza|"},
+  "MIXING STATION": {"requires": "|MIXING STATION|"},
+  "Spotify Showdown": {"requires": "|Spotify Showdown|"},
+  "untitled green tournament": {"requires": "|untitled green tournament|"},
+  
 }
