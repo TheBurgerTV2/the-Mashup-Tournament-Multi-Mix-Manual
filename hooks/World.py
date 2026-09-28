@@ -1,6 +1,7 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
+from Options import OptionError
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -45,13 +46,38 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
 
-    # Add your code here to calculate which locations to remove
+    num_tourneys = world.options.num_tourneys.value
+    all_tourneys = [region.name for region in multiworld.regions if region.player == player and region.name != "Menu" and region.name != "Manual"]
+    tourney_forces = world.options.tourney_forces.value
+    tourney_vetos = world.options.tourney_vetos.value
+
+    chosen_tourneys = []
+    for t in tourney_vetos:
+        if t in all_tourneys:
+            all_tourneys.remove(t)
+        else:
+            raise OptionError(f"Tourney named {t} does not exist")
+    for t in tourney_forces:
+        if t in all_tourneys:
+            all_tourneys.remove(t)
+            chosen_tourneys.append(t)
+        else:
+            raise OptionError(f"Tourney named {t} does not exist")
+
+    while len(chosen_tourneys) < num_tourneys:
+        chosen_tourneys.append(world.random.choice(all_tourneys))
+
+    world.chosen_tourneys = chosen_tourneys
 
     for region in multiworld.regions:
         if region.player == player:
-            for location in list(region.locations):
-                if location.name in locationNamesToRemove:
+            if region.name in ['Menu', 'Manual']:
+                continue
+            if region.name not in chosen_tourneys:
+                for location in list(region.locations):
                     region.locations.remove(location)
+            else:
+                multiworld.push_precollected(multiworld.create_item(region.name, player))
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -63,39 +89,59 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
 
-    {"Dice Fragment": {ItemClassification.progression_deprioritized: 75}}
-    {"Extra Dice Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
+    # {"Dice Fragment": {ItemClassification.progression_deprioritized: 75}}
+    # {"Extra Dice Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
         
-    if not world.options.enable_backside_rider.value:
-        item_config["The Backside Rider"] = 0
+    # if not world.options.enable_backside_rider.value:
+    #     item_config["The Backside Rider"] = 0
+
+    all_character_names = [name for name, i in world.item_name_to_item.items() if "Character" in i.get("category", []) or "Bonus Character" in i.get("category", [])]
+    included_character_names = []
+    for t in world.chosen_tourneys:
+        included_character_names.extend([name for name, i in world.item_name_to_item.items() if f"{t} Character" in i.get("category", []) or f"{t} Bonus Character" in i.get("category", [])])
+
+    for char in all_character_names:
+        if char not in included_character_names:
+            item_config[char] = 0
 
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
-    # Starting Items
+    # # Starting Items
     num_starting_characters = world.options.starting_characters.value
-    num_starting_dice = world.options.starting_dice.value
+    starting_character_names = []
 
-    # Dice
-    dice_item_names = [name for name, i in world.item_name_to_item.items() if "Dice" in i.get("category", [])]
-    starting_dice = world.random.sample(dice_item_names, num_starting_dice)
-    starting_dice_items = [i for i in item_pool if i.name in starting_dice and i.player == player]
-    for item in starting_dice_items:
-        multiworld.push_precollected(item)
-        item_pool.remove(item)
+    for t in world.chosen_tourneys:
+        starting_character_names.extend([name for name, i in world.item_name_to_item.items() if f"{t} Character" in i.get("category", [])])
+    
+    # num_starting_dice = world.options.starting_dice.value
 
-    # Characters
-    for dice in starting_dice:
-        character_items_for_this_dice = [name for name, i in world.item_name_to_item.items() if f"{dice} Character" in i.get("category", [])]
-        if len(character_items_for_this_dice) < num_starting_characters: # Failsafe for Dice 6
-            num_starting_characters = len(character_items_for_this_dice)
-        starting_characters = world.random.sample(character_items_for_this_dice, num_starting_characters)
-        starting_characters_items = [i for i in item_pool if i.name in starting_characters and i.player == player]
-        for item in starting_characters_items:
-            multiworld.push_precollected(item)
-            item_pool.remove(item)
+    for _ in range(num_starting_characters):
+        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_character_names and i.player == player])
+        multiworld.push_precollected(chosen_item)
+        item_pool.remove(chosen_item)
+        print(chosen_item)
+
+    # # Dice
+    # dice_item_names = [name for name, i in world.item_name_to_item.items() if "Dice" in i.get("category", [])]
+    # starting_dice = world.random.sample(dice_item_names, num_starting_dice)
+    # starting_dice_items = [i for i in item_pool if i.name in starting_dice and i.player == player]
+    # for item in starting_dice_items:
+    #     multiworld.push_precollected(item)
+    #     item_pool.remove(item)
+
+    # # Characters
+    # for dice in starting_dice:
+    #     character_items_for_this_dice = [name for name, i in world.item_name_to_item.items() if f"{dice} Character" in i.get("category", [])]
+    #     if len(character_items_for_this_dice) < num_starting_characters: # Failsafe for Dice 6
+    #         num_starting_characters = len(character_items_for_this_dice)
+    #     starting_characters = world.random.sample(character_items_for_this_dice, num_starting_characters)
+    #     starting_characters_items = [i for i in item_pool if i.name in starting_characters and i.player == player]
+    #     for item in starting_characters_items:
+    #         multiworld.push_precollected(item)
+    #         item_pool.remove(item)
 
     # Add source items to starting inventory
     # sourcesanity = world.options.Sourcesanity.value

@@ -1,5 +1,5 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, OptionSet
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
@@ -25,12 +25,21 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class Starting_Dice(Range):
-    """Number of Dice to randomly add to the starting inventory.
-    You need a Dice along with a character within that dice to have locations."""
+
+class Num_Tourneys(Range):
+    """Determines the amount of random tourneys to pick total."""
     range_start = 1
-    range_end = 6
-    default = 2
+    range_end = 20
+    default = 5
+
+class TourneyForces(OptionSet):
+    """Forces specific tourneys to be included in randomization.
+    The generator will always pick these tourneys first, then fill random tourneys until num_tourneys is met."""
+    default = []
+
+class TourneyVetos(OptionSet):
+    """Excludes specific tourneys to be included in randomization. Takes priority over album_forces."""
+    default = []
 
 class Starting_Characters(Range):
     """Number of characters to randomly add to the starting inventory.
@@ -45,17 +54,19 @@ class Goal_Requirement(Range):
     range_end = 100
     default = 75
     
-class EnableBacksideRider(Toggle):
-    """Enables The Backside Rider, disable if your group disallows sexual themes."""
-    default = False
+# class EnableBacksideRider(Toggle):
+#     """Enables The Backside Rider, disable if your group disallows sexual themes."""
+#     default = False
 
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["num_tourneys"] = Num_Tourneys
+    options["tourney_forces"] = TourneyForces
+    options["tourney_vetos"] = TourneyVetos
     options["starting_characters"] = Starting_Characters
-    options["starting_dice"] = Starting_Dice
     options["goal_requirement"] = Goal_Requirement
-    options["enable_backside_rider"] = EnableBacksideRider
+    # options["enable_backside_rider"] = EnableBacksideRider
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

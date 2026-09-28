@@ -1,5 +1,6 @@
 {
-  "game": "diceytumble",
+  "game": "notdiceytumble",
   "creator": "theburger",
+  "filler_item_name": "Filler",
   "starting_items": []
 }
