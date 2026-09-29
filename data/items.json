@@ -7,30 +7,9 @@
   {"name": "MIXING STATION", "count": 1, "progression": true, "category": ["Tournament"]},
   {"name": "Spotify Showdown", "count": 1, "progression": true, "category": ["Tournament"]},
   {"name": "untitled green tournament", "count": 1, "progression": true, "category": ["Tournament"]},
-  {
-    "count": 1,
-    "name": "Uncle Grandpa for a Day",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Last Match Tonight",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "[ LIGHTNING ROUND ]",
-    "category": [
-      "Tournament"
-    ],
-    "progression": true
-  },
+  {"name": "Uncle Grandpa for a Day", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "Last Match Tonight", "count": 1, "progression": true, "category": ["Tournament"]},
+  {"name": "[ LIGHTNING ROUND ]", "count": 1, "progression": true, "category": ["Tournament"]},
   {"name": "Edacra", "count": 1, "progression": true, "category": ["Bonus Character", "MASH N' UP Bonus Character"]},
   {"name": "DJ Geist", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
   {"name": "Rasputin", "count": 1, "progression": true, "category": ["Character", "MASH N' UP Character"]},
@@ -137,562 +116,66 @@
   {"name": "Funny Freddy", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
   {"name": "Lord Farquaad", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
   {"name": "Wing Gaster", "count": 1, "progression": true, "category": ["Bonus Character", "untitled green tournament Bonus Character"]},
-  {
-    "count": 1,
-    "name": "Uncle Grandpa",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dewey",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fighting Goku Team",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "IGOR",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Adam Conover",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Powerline",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lost & Found",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Love & Ponystep",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Black Hat",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Stan Smith",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Else",
-    "category": [
-      "Bonus Character",
-      "Uncle Grandpa for a Day Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Jack & Elmo",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Spooky Men",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dayshift at Fuckboy's",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lofi Girl",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Saul Goodman (UGFAD)",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ramona Flowers",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "【ＰＡＴＲＩＣＫ＇Ｓ　ＤＲＥＡＭ】",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Modern Day Razzstars",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Edmund McMillen",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mean Bean Machine",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Moai",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mario Judah",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ludwig Van BEAThoven",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mirror Magic",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "ECHO",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Mothman",
-    "category": [
-      "Character",
-      "Uncle Grandpa for a Day Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Late Night Goons",
-    "category": [
-      "Bonus Character",
-      "Last Match Tonight Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Headmaster Alpharad",
-    "category": [
-      "Bonus Character",
-      "Last Match Tonight Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Nostalgia Critic (LMT)",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ken",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "AI Napoleon Bonaparte",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Forgotten Body of Years (LMT)",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Undersus",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Captain Disillusion",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Time Balancer Kid",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "live fast die young",
-    "category": [
-      "Character",
-      "Last Match Tonight Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Double Rainbow",
-    "category": [
-      "Bonus Character",
-      "[ LIGHTNING ROUND ] Bonus Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Minnatsuki",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "YouTube Ad Bot",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Todd The Turnip",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Deserter And Revenant",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dead to Me",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Pumpkin Dance",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Stephane",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "DRAGONLADY",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Rhythm 'N' Face",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "theprincess",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "pilotredsun",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Phantom Meme",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Down To The Crust",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Grayfruit",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Piconjo",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Battle Cats",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "THEDARK.exe",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Noc+10",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Giegue",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Cirno's Perfect Math Class",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "NOTHING WORLD FEAT. DOG BUS",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Omega Tiger Woods",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "M.C. & M.E.",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Weegee From The Sky",
-    "category": [
-      "Character",
-      "[ LIGHTNING ROUND ] Character"
-    ],
-    "progression": true
-  }
+  {"name": "Uncle Grandpa", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Dewey", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Jack & Elmo", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Spooky Men", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Dayshift at Fuckboy's", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Lofi Girl", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Saul Goodman (UGFAD)", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Ramona Flowers", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "【ＰＡＴＲＩＣＫ＇Ｓ　ＤＲＥＡＭ】", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Modern Day Razzstars", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Edmund McMillen", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Mean Bean Machine", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Moai", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Mario Judah", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Ludwig Van BEAThoven", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Mirror Magic", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "ECHO", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Mothman", "count": 1, "progression": true, "category": ["Character", "Uncle Grandpa for a Day Character"]},
+  {"name": "Fighting Goku Team", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "IGOR", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Adam Conover", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Powerline", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Lost & Found", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Love & Ponystep", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Black Hat", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Stan Smith", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "The Else", "count": 1, "progression": true, "category": ["Bonus Character", "Uncle Grandpa for a Day Bonus Character"]},
+  {"name": "Late Night Goons", "count": 1, "progression": true, "category": ["Bonus Character", "Last Match Tonight Bonus Character"]},
+  {"name": "Headmaster Alpharad", "count": 1, "progression": true, "category": ["Bonus Character", "Last Match Tonight Bonus Character"]},
+  {"name": "The Nostalgia Critic (LMT)", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Ken", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "AI Napoleon Bonaparte", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Forgotten Body of Years (LMT)", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Undersus", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Captain Disillusion", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Time Balancer Kid", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "live fast die young", "count": 1, "progression": true, "category": ["Character", "Last Match Tonight Character"]},
+  {"name": "Double Rainbow", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Minnatsuki", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "YouTube Ad Bot", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Todd The Turnip", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "The Deserter And Revenant", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Dead to Me", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Pumpkin Dance", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Stephane", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "DRAGONLADY", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Rhythm 'N' Face", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "theprincess", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "pilotredsun", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "The Phantom Meme", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Down To The Crust", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Grayfruit", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Piconjo", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "The Battle Cats", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "THEDARK.exe", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Noc+10", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Giegue", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Cirno's Perfect Math Class", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "NOTHING WORLD FEAT. DOG BUS", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Omega Tiger Woods", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "M.C. & M.E.", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]},
+  {"name": "Weegee From The Sky", "count": 1, "progression": true, "category": ["Character", "[ LIGHTNING ROUND ] Character"]}
 ]
