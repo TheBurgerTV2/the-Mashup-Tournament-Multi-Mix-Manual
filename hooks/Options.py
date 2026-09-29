@@ -29,7 +29,7 @@ from typing import Type, Any
 class Num_Tourneys(Range):
     """Determines the amount of random tourneys to pick total."""
     range_start = 1
-    range_end = 20
+    range_end = 10
     default = 5
 
 class TourneyForces(OptionSet):
@@ -38,12 +38,12 @@ class TourneyForces(OptionSet):
     default = []
 
 class TourneyVetos(OptionSet):
-    """Excludes specific tourneys to be included in randomization. Takes priority over album_forces."""
+    """Excludes specific tourneys to be included in randomization. Takes priority over tourney_forces."""
     default = []
 
 class Starting_Characters(Range):
     """Number of characters to randomly add to the starting inventory.
-    You will recieve characters within the Dice you are given via starting dice."""
+    You will recieve characters within the tourneys you are given via starting tourneys."""
     range_start = 1
     range_end = 6
     default = 2
