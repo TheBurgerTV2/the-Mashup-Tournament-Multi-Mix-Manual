@@ -314,6 +314,6 @@
   {"name": "Gotta kick some ass!", "count": 1, "filler": true, "category": ["Filler"]},
   {"name": "Invincibility", "count": 1, "filler": true, "category": ["Filler"]},
   {"name": "Enclosed Instruction Book", "count": 1, "filler": true, "category": ["Filler"]},
-  {"name": "Song Skip", "count": 75, "useful": true, "category": ["Song Skips"]},
+  {"name": "Song Skip", "count": 100, "useful": true, "category": ["Song Skips"]},
   {"name": "Poker Chip", "count": 1, "filler": true, "category": ["Filler"]}
 ]
