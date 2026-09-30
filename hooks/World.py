@@ -173,9 +173,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
     for i in item_pool:
-            if i.name == "Dice Fragment":
-                i.classification = ItemClassification.progression_deprioritized
-            if i.name == "Extra Dice Fragment for fun":
+            if i.name == "+1 Mashup Point":
                 i.classification = ItemClassification.progression_deprioritized
 
     return item_pool

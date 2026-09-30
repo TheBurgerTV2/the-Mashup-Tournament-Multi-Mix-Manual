@@ -46,7 +46,7 @@ class Starting_Characters(Range):
     You will recieve characters within the tourneys you are given via starting tourneys."""
     range_start = 1
     range_end = 6
-    default = 2
+    default = 1
 
 class Goal_Requirement(Range):
     """Percentage of macguffins needed to goal. There will always be 100 in the item pool."""
@@ -54,9 +54,6 @@ class Goal_Requirement(Range):
     range_end = 100
     default = 75
     
-# class EnableBacksideRider(Toggle):
-#     """Enables The Backside Rider, disable if your group disallows sexual themes."""
-#     default = False
 
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
@@ -66,7 +63,6 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["tourney_vetos"] = TourneyVetos
     options["starting_characters"] = Starting_Characters
     options["goal_requirement"] = Goal_Requirement
-    # options["enable_backside_rider"] = EnableBacksideRider
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
