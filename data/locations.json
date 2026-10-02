@@ -558,7 +558,7 @@
   {"name": "Say Goodbye To Your Life", "requires": "|Dayshift at Fuckboy's| AND |Modern Day Razzstars|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Dayshift at Fuckboy's", "Modern Day Razzstars"]},
   {"name": "it's a better day when i'm with you.", "requires": "|Lofi Girl|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl"]},
   {"name": "count your seconds", "requires": "|Lofi Girl|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl"]},
-  {"name": "feeling luvsic", "requires": "|Lofi Girl| AND |Lil Darkie|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl", "Lil Darkie"]},
+  {"name": "feeling luvsic", "requires": "|Lofi Girl|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl"]},
   {"name": "Heian Galactic Girl", "requires": "|Lofi Girl| AND |Ludwig Van BEAThoven|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl", "Ludwig Van BEAThoven"]},
   {"name": "count your seconds (Badmouth Mix)", "requires": "|Lofi Girl| AND |IGOR|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Lofi Girl", "IGOR"]},
   {"name": "Kid Named Grandpa", "requires": "|Saul Goodman (UGFAD)|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Saul Goodman (UGFAD)"]},
