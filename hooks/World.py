@@ -136,9 +136,12 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
             item_pool.remove(chosen_item)
 
     # Add Macguffins
-    macguffins_to_add = len(world.get_locations()) // 10
+    macguffins_to_add = len(world.get_locations()) // 10 # 10% of all locations will be macguffins
     item_pool.extend([multiworld.create_item("+1 Mashup Point", player) for _ in range(max(1, macguffins_to_add))])
     world.total_macguffins = macguffins_to_add
+
+    skips_to_add = len(world.get_locations()) // 20 # 5% of all locations will be song skips
+    item_pool.extend([multiworld.create_item("Song Skip", player) for _ in range(skips_to_add)])
 
     # Add Filler
     fillers = [name for name, i in world.item_name_to_item.items() if "Filler" in i.get("category", [])]

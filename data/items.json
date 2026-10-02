@@ -312,7 +312,7 @@
   {"name": "Polynesian Filler", "count": 0, "filler": true, "category": ["Filler"]},
   {"name": "Wrathful Filler", "count": 0, "filler": true, "category": ["Filler"]},
   {"name": "Where the fuck is Mario Judah?", "count": 0, "filler": true, "category": ["Filler"]},
-  {"name": "Song Skip", "count": 100, "useful": true, "category": ["Song Skips"]},
+  {"name": "Song Skip", "count": 0, "useful": true, "category": ["Song Skips"]},
   {"name": "Cultured Filler", "count": 0, "filler": true, "category": ["Filler"]},
   {"name": "Raspberry", "count": 0, "filler": true, "category": ["Filler"]},
   {"name": ":-)", "count": 0, "filler": true, "category": ["Filler"]},
