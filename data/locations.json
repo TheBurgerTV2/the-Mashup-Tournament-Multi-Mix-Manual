@@ -1,5 +1,5 @@
 [
-  {"name": "Listen to your favorite song :)", "victory": true, "category": ["Goal"], "requires": "|+1 Mashup Point:75|"},
+  {"name": "Listen to your favorite song :)", "victory": true, "category": ["Goal"], "requires": "{victory_rule()}"},
   {"name": "PRESS START", "requires": "|Edacra|", "region": "MASH N' UP", "category": ["MASH N' UP", "Edacra"]},
   {"name": "BRACKET: MORE THAN ICARUS", "requires": "|Edacra| AND |DJ Geist| AND |Rasputin| AND |Sackboy| AND |Dial-Tone Telephone| AND |The Fame Monster| AND |Phineas and Ferb| AND |Noiriplier| AND |Sonic Miku| AND |The Lone Warrior| AND |Hatty Hattington| AND |Spider-Man| AND |Gordon Freeman| AND |Leather Jacket| AND |GigaChad| AND |nobody here| AND |h0peles$0uL|", "region": "MASH N' UP", "category": ["MASH N' UP", "Edacra", "DJ Geist", "Rasputin", "Sackboy",  "Dial-Tone Telephone", "The Fame Monster", "Phineas and Ferb", "Noiriplier", "Sonic Miku", "The Lone Warrior", "Hatty Hattington", "Spider-Man", "Gordon Freeman", "Leather Jacket",  "GigaChad",  "nobody here",  "h0peles$0uL"]},
   {"name": "ENTER PLAYER 1", "requires": "|DJ Geist|", "region": "MASH N' UP", "category": ["MASH N' UP", "DJ Geist"]},

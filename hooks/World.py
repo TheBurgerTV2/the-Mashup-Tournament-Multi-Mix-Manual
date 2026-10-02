@@ -89,7 +89,8 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         multiworld.push_precollected(item)
         tourney_items.remove(item)
     print(f"Starting Tourneys: {starting_tourney_items}")
-    multiworld.itempool.extend(tourney_items)
+    # multiworld.itempool.extend(tourney_items)
+    world.nonstarting_tourney_items = tourney_items
     print(f"Pooled Tourneys: {tourney_items}")
 
 
@@ -102,10 +103,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
-
-    # {"Dice Fragment": {ItemClassification.progression_deprioritized: 75}}
-    # {"Extra Dice Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
-        
+    
     # if not world.options.enable_backside_rider.value:
     #     item_config["The Backside Rider"] = 0
 
@@ -118,6 +116,9 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
         if char not in included_character_names:
             item_config[char] = 0
 
+    for tourney in world.nonstarting_tourney_items:
+        item_config[tourney.name] = 1
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -128,12 +129,36 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
     for t in world.starting_tourney_items: #world.chosen_tourneys:
         t = t.name
-        print(t)
         starting_character_names = [name for name, i in world.item_name_to_item.items() if f"{t} Character" in i.get("category", [])]
         for _ in range(num_starting_characters):
             chosen_item = world.random.choice([i for i in item_pool if i.name in starting_character_names and i.player == player])
             multiworld.push_precollected(chosen_item)
             item_pool.remove(chosen_item)
+
+    # Add Macguffins
+    macguffins_to_add = len(world.get_locations()) // 10
+    item_pool.extend([multiworld.create_item("+1 Mashup Point", player) for _ in range(max(1, macguffins_to_add))])
+    world.total_macguffins = macguffins_to_add
+
+    # Add Filler
+    fillers = [name for name, i in world.item_name_to_item.items() if "Filler" in i.get("category", [])]
+    total_filler = len(world.get_locations()) - len(item_pool)
+
+    for n in range(1, total_filler+1):
+
+        item_to_place = world.create_item(world.random.choice(fillers))
+
+        # if n / total_filler <= world.options.local_fill.value:
+        #     #location = next(l for l in multiworld.get_unfilled_locations(player=player))
+        #     location = world.random.choice(multiworld.get_unfilled_locations(player=player))
+        #     location.place_locked_item(item_to_place)
+        # else:
+        item_pool.append(item_to_place)
+
+
+    for i in item_pool:
+        if i.name == "+1 Mashup Point":
+            i.classification = ItemClassification.progression_deprioritized_skip_balancing
 
     # # Dice
     # dice_item_names = [name for name, i in world.item_name_to_item.items() if "Dice" in i.get("category", [])]
@@ -182,10 +207,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-
-    for i in item_pool:
-            if i.name == "+1 Mashup Point":
-                i.classification = ItemClassification.progression_deprioritized
 
     return item_pool
 

@@ -57,8 +57,8 @@ class Starting_Characters(Range):
 class Goal_Requirement(Range):
     """Percentage of macguffins needed to goal. There will always be 4 in the item pool."""
     range_start = 1
-    range_end = 4
-    default = 3
+    range_end = 100
+    default = 75
     
 
 

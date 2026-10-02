@@ -8,9 +8,9 @@ import re
 # Victory Rule
 def victory_rule(world: World):
     """Calculates Victory"""
-    comp = world.options.goal_requirement.value
+    percentage = world.options.goal_requirement.value
 
-    logic = f"|@Goal MacGuffin:{comp}|"
+    logic = f"|@Goal MacGuffin:{max(1, int((percentage/100)*world.total_macguffins))}|"
 
     return logic
 
