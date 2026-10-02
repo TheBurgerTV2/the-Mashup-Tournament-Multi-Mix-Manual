@@ -50,6 +50,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     all_tourneys = [region.name for region in multiworld.regions if region.player == player and region.name != "Menu" and region.name != "Manual"]
     tourney_forces = world.options.tourney_forces.value
     tourney_vetos = world.options.tourney_vetos.value
+    starting_tourney_count = world.options.starting_tourneys.value
 
     chosen_tourneys = []
     for t in tourney_vetos:
@@ -65,10 +66,13 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
             raise OptionError(f"Tourney named {t} does not exist")
 
     while len(chosen_tourneys) < num_tourneys:
-        chosen_tourneys.append(world.random.choice(all_tourneys))
+        choice = world.random.choice(all_tourneys)
+        chosen_tourneys.append(choice)
+        all_tourneys.remove(choice)
 
     world.chosen_tourneys = chosen_tourneys
 
+    tourney_items = []
     for region in multiworld.regions:
         if region.player == player:
             if region.name in ['Menu', 'Manual']:
@@ -77,7 +81,17 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
                 for location in list(region.locations):
                     region.locations.remove(location)
             else:
-                multiworld.push_precollected(multiworld.create_item(region.name, player))
+                tourney_items.append(multiworld.create_item(region.name, player))
+
+    starting_tourney_items = world.random.sample(tourney_items, starting_tourney_count)
+    world.starting_tourney_items = starting_tourney_items
+    for item in starting_tourney_items:
+        multiworld.push_precollected(item)
+        tourney_items.remove(item)
+    print(f"Starting Tourneys: {starting_tourney_items}")
+    multiworld.itempool.extend(tourney_items)
+    print(f"Pooled Tourneys: {tourney_items}")
+
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -111,18 +125,15 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
     # # Starting Items
     num_starting_characters = world.options.starting_characters.value
-    starting_character_names = []
 
-    for t in world.chosen_tourneys:
-        starting_character_names.extend([name for name, i in world.item_name_to_item.items() if f"{t} Character" in i.get("category", [])])
-    
-    # num_starting_dice = world.options.starting_dice.value
-
-    for _ in range(num_starting_characters):
-        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_character_names and i.player == player])
-        multiworld.push_precollected(chosen_item)
-        item_pool.remove(chosen_item)
-        print(chosen_item)
+    for t in world.starting_tourney_items: #world.chosen_tourneys:
+        t = t.name
+        print(t)
+        starting_character_names = [name for name, i in world.item_name_to_item.items() if f"{t} Character" in i.get("category", [])]
+        for _ in range(num_starting_characters):
+            chosen_item = world.random.choice([i for i in item_pool if i.name in starting_character_names and i.player == player])
+            multiworld.push_precollected(chosen_item)
+            item_pool.remove(chosen_item)
 
     # # Dice
     # dice_item_names = [name for name, i in world.item_name_to_item.items() if "Dice" in i.get("category", [])]

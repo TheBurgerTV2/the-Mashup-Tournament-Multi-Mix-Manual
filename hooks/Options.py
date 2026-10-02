@@ -41,12 +41,18 @@ class TourneyVetos(OptionSet):
     """Excludes specific tourneys to be included in randomization. Takes priority over tourney_forces."""
     default = []
 
+class Starting_Tourneys(Range):
+    """Number of tourneys to randomly add to the starting inventory."""
+    range_start = 1
+    range_end = 6
+    default = 1
+
 class Starting_Characters(Range):
     """Number of characters to randomly add to the starting inventory.
     You will recieve characters within the tourneys you are given via starting tourneys."""
     range_start = 1
     range_end = 6
-    default = 1
+    default = 2
 
 class Goal_Requirement(Range):
     """Percentage of macguffins needed to goal. There will always be 100 in the item pool."""
@@ -61,6 +67,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["num_tourneys"] = Num_Tourneys
     options["tourney_forces"] = TourneyForces
     options["tourney_vetos"] = TourneyVetos
+    options["starting_tourneys"] = Starting_Tourneys
     options["starting_characters"] = Starting_Characters
     options["goal_requirement"] = Goal_Requirement
     return options
