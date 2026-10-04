@@ -619,6 +619,7 @@
   {"name": ":eye:️Under Watchful Eyes:eye:️", "requires": "|Mothman| AND |The Else|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Mothman", "The Else"]},
   {"name": "𝒜𝒸𝓇𝑜𝓈𝓈 𝒫𝑜𝒾𝓃𝓉 𝒫𝓁𝑒𝒶𝓈𝒶𝓃𝓉", "requires": "|Mothman|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Mothman"]},
   {"name": "Retrospective", "requires": "|Mothman| AND |The Else|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Mothman", "The Else"]},
+  {"name": "The Water Harms", "requires": "|Mothman|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Mothman"]},
   {"name": "IT'S ME!", "requires": "|Fighting Goku Team|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Fighting Goku Team"]},
   {"name": "Thirty-Dollar Dance-Off", "requires": "|Fighting Goku Team|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Fighting Goku Team"]},
   {"name": "PRAY FOR FUN (with friends!)", "requires": "|Fighting Goku Team| AND |SURVIVE THE KILL THE KILLERS IN AREA 51|", "region": "Uncle Grandpa for a Day", "category": ["Uncle Grandpa for a Day", "Fighting Goku Team", "untitled green tournament", "SURVIVE THE KILL THE KILLERS IN AREA 51"]},
