@@ -29,8 +29,8 @@ from typing import Type, Any
 class Num_Tourneys(Range):
     """Determines the amount of random tourneys to pick total."""
     range_start = 1
-    range_end = 10
-    default = 5
+    range_end = 12
+    default = 6
 
 class TourneyForces(OptionSet):
     """Forces specific tourneys to be included in randomization.
